@@ -1,0 +1,25 @@
+baseURL: "https://yourbizminer.info/"
+languageCode: en-us
+title: YourBizMiner
+theme: PaperMod
+
+# https://github.com/adityatelange/hugo-PaperMod/wiki/Installation
+# https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/
+
+# enableRobotsTXT: true
+
+# minify:
+#   disableXML: true
+#   minifyOutput: true
+
+params:
+  author: Me
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+
+menu:
+    main:
+        - identifier: tags
+          name: Washing
+          url: tags//washing/
+          weight: 20
