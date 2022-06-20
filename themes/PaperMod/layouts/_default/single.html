@@ -33,6 +33,17 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
   </div>
+
+  <div>
+  <h4>Also Read:</h4>
+  <ul>
+  {{ range first 10 (shuffle (where (where (where .Site.Pages "Type" "post") "Title" "!=" "posts") "Title" "!=" .Title)) }}  
+      <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+  </ul>
+  </div>
+
+
   {{- end }}
 
   <footer class="post-footer">
