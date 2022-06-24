@@ -7,7 +7,6 @@ tags: ["Washing"]
 ---
 **Best Answer**
 
-
 1. Put a towel around the person's neck.
 
 2. Wet the person's hair with a spray bottle.
@@ -24,6 +23,20 @@ tags: ["Washing"]
 
 8. Dry the person's hair with a towel.
 
+## How Often Should the Elderly Wash Hair?
+
+While our hair does occasionally pick up some dirt during the day, oil is the main factor in how often hair needs to be washed. Sebum, an oil that is continuously produced by glands on the scalp, helps to hydrate your hair. That oil steadily moves from the scalp to the ends of your hair as it is created, where it builds up until you wash it off.
+
+However, older persons' scalps produce less sebum due to the numerous physical changes that come with aging. It is also known that coarse and curly hair slows the rate at which it spreads through hair. That essentially indicates that no one person will benefit more from a particular washing frequency.
+
+**Generally speaking, older adults may only need to wash their hair around once per week. For seniors who are hesitant to wash with greater frequency, dry shampoos can be effective in the days between wet washing.**
+
+Choosing the best equipment for optimum support is a key component of learning how to wash an elderly person's hair. You should typically have some washcloths and towels on hand, a cup for pouring warm water, a washing basin of some sort, and the shampoo of your choice.
+
+The type of washing basin you select is also important. A portable shampoo bowl, for example, can be extremely useful when washing the hair of someone in a wheelchair. It's essentially a sink bowl on wheels, similar to the washing station found in most salons, that allows you to position the basin directly behind a person's chair. Similarly, inflatable wash basins can be particularly beneficial for washing the hair of bedridden patients.
+
+And with a little planning, washing hair in bed can be a breeze. To get started, line the bed with towels or garbage bags to keep it from getting wet. You can begin wetting the senior's hair with warm water after placing a washing basin on the bed and gently assisting the senior's head inside. You might want to provide a dry washcloth to keep their eyes from being splashed.	
+
 ## How do you wash your hair for someone in a wheelchair??
 
 {{< youtube EOqbHPWdfsQ >}}
@@ -38,7 +51,7 @@ Bring the hair washing tray over the shoulders; the U shape opening placed again
 Scoop warm water from the full bucket to wet their hair. Use a small amount of shampoo to wash their hair – using too much will make it difficult to rinse out. Scoop warm water to rinse hair completely. If hair is very dirty, shampoo and rinse again.
 
 ## How often should a 70 year old wash their hair?
-around once per week
+Around once per week.
 
 ## How do I wash my hair with limited mobility?
 Scoop warm water from the full bucket to wet their hair. Use a small amount of shampoo to wash their hair – using too much will make it difficult to rinse out. Scoop warm water to rinse hair completely. If hair is very dirty, shampoo and rinse again.
